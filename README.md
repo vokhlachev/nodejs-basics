@@ -21,7 +21,7 @@ Here I am practicing theory about:
 
 * Creating basic REST-server
 
-* ANd how to work with console
+* And how to work with console
 
 ### Built with:
 * [NODE JS](https://nodejs.org/en/)
